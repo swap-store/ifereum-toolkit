@@ -1,0 +1,20 @@
+{
+  "https://tokens.ifereum.com/ifereum-default.json": {
+    "name": "IFereum Default",
+    "homepage": "https://ifereum.com"
+  },
+  "https://tokens.ifereum.com/ifereum-extended.json": {
+    "name": "IFereum Extended",
+    "homepage": "https://ifereum.com"
+    
+  },
+  "https://tokens.ifereum.com/ifereum-top-100.json": {
+    "name": "IFereum Top 100",
+    "homepage": "https://ifereum.com"
+    
+  },
+  "https://tokens.coingecko.com/binance-smart-chain/all.json": {
+    "name": "CoinGecko",
+    "homepage": "https://www.coingecko.com"
+  }
+}
