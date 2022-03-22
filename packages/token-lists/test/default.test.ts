@@ -91,7 +91,7 @@ expect.extend({
     const hasTWLogo =
       token.logoURI === `https://assets.trustwalletapp.com/blockchains/smartchain/assets/${token.address}/logo.png`;
     let hasLocalLogo = false;
-    const refersToLocalLogo = token.logoURI === `https://tokens.ifereum.com/images/${token.address}.png`;
+    const refersToLocalLogo = token.logoURI === `https://tokenlist.ifereum.com/images/${token.address}.png`;
     if (refersToLocalLogo) {
       const fileName = token.logoURI.split("/").pop();
       // Note: fs.existsSync can't be used here because its not case sensetive

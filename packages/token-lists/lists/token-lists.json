@@ -1,14 +1,14 @@
 {
-  "https://tokens.ifereum.com/ifereum-default.json": {
+  "https://tokenlist.ifereum.com/ifereum-default.json": {
     "name": "IFereum Default",
     "homepage": "https://ifereum.com"
   },
-  "https://tokens.ifereum.com/ifereum-extended.json": {
+  "https://tokenlist.ifereum.com/ifereum-extended.json": {
     "name": "IFereum Extended",
     "homepage": "https://ifereum.com"
     
   },
-  "https://tokens.ifereum.com/ifereum-top-100.json": {
+  "https://tokenlist.ifereum.com/ifereum-top-100.json": {
     "name": "IFereum Top 100",
     "homepage": "https://ifereum.com"
     
