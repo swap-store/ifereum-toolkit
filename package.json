@@ -2,7 +2,6 @@
   "name": "ifereum-toolkit",
   "version": "1.0.0",
   "description": "IFereum frontend packages",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
